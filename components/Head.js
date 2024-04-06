@@ -7,9 +7,9 @@ export default function HeadComponent() {
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       <meta name="theme-color" content="#000000" />
 
-      <title>Solana Pay Store</title>
-      <meta name="title" content="Solana Pay Store" />
-      <meta name="description" content="Compre itens na minha loja usando Solana Pay!" />
+      <title>Galia space universe experience</title>
+      <meta name="title" content="Galia Game" />
+      <meta name="description" content="Play galaga game in Galia space!" />
 
       {/* Facebook */}
       <meta property="og:type" content="website" />

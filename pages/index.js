@@ -13,12 +13,12 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header"> 😳 Loja de emojis 😈</p>
-          <p className="sub-text">A única loja de emojis que aceita shitcoins</p>
+          <p className="header"> Galia o inicio da sua aventura espacial </p>
+          <p className="sub-text"> Sua jornada neste universo de conhecimentos será incrível </p>
         </header>
 
         <main>
-          <img className='gif-image' src="https://media.tenor.com/1mJ-tJSzvwsAAAAd/solana-sol.gif" alt="emoji" />
+          <img className='gif-image' src="https://drive.google.com/file/d/10vlAxBAXEnkownJdby9v0hEtr8Zf-TAp/view" alt="emoji" />
         </main>
 
         <div className="footer-container">
